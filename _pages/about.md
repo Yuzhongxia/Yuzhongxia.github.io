@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: https://yuzhongxia.github.io/
 title: "作品筹划中"
 author_profile: true
 redirect_from: 
