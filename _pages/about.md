@@ -18,11 +18,7 @@ redirect_from:
 - 与对方共享状态
 - 在常态中貌似无用（雾）
 - 是时候发挥你的超级智慧了
-  <head>
-    <body>
-      <img src="https://imgchr.com/i/peiSBdg" alt="">
-    </body>
-  </head>
+![图片](https://imgchr.com/i/peiSBdg)
 ### 治疗【Heal】
 - 用以回复自身状态
 - 也许它并不只能回复自身
