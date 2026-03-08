@@ -68,4 +68,3 @@ redirect_from:
 # 关于乔令
 永远缅怀，以手中利剑刺破长夜的他
 [乔令](https://user.qzone.qq.com/919501186"他的个人QQ")
----
