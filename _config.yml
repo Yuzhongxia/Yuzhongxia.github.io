@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "伟大的起点 or 全新的世界"
+title                    : "观测者"
 title_separator          : "-"
 name                     : &name "匣"
 description              : &description "与你的日常，就是奇迹"   # 个人简介
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "与你的日常，就是奇迹"
   location         : "翻斗花园"
-  employer         : "毕业于"
+  employer         : "毕业于哪里我也不知道"
   uri              : # URL
   email            : "1917156915@qq.com" 
 
