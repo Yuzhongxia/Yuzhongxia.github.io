@@ -63,7 +63,7 @@ redirect_from:
 - 终局之后，便是新的生机
 - 来自高天之外的袭击
 - 店里来了一个玩霍普的
-- ![Arrival.png](https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE5mmtTZrq3ueSBfhCAaD6QgGEo_5JAAKnHQAC5LRoVTav3mbgJSFmOgQ.png)
+- [![Arrival.png]](https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE5mmtTZrq3ueSBfhCAaD6QgGEo_5JAAKnHQAC5LRoVTav3mbgJSFmOgQ.png)
 # 关于乔令
 永远缅怀，以手中利剑刺破长夜的他
 [乔令](https://user.qzone.qq.com/919501186"他的个人QQ")
